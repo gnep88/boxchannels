@@ -8,7 +8,7 @@
     
 {
       "name": "live",
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gnep88/boxchannels/main/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gnep88/boxchannels/main/live.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
