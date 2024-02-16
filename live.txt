@@ -30,7 +30,8 @@ Radio Bremen TV,https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u
 Deutsche Welle TV Deutsch,https://dwamdstream106.akamaized.net/hls/live/2017965/master.m3u8
 KiKa,https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 Nickelodeon,https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_900.m3u8
-Servus TV,https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
+Servus TV Wetter,https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_3392.m3u8
+Servus TV World of Red Bull,https://stv-live.akamaized.net/hls/live/2096817/RBTVDachSTVPri/master.m3u8
 Welt der Wunder,https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 ANIXE HD,https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 health.tv,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
@@ -38,19 +39,23 @@ Muxx.TV,https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livest
 MyTVplus,https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 More than Sports TV,https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-OE24.TV,https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+OE24.TV,https://oe24.mdn.ors.at/out/u/oe24tv_hd_small-nodrm.m3u8
 WELT,https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 WELT News,https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
 Euronews deutsch,https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 Bild,https://bild.personalstream.tv/v1/master.m3u8
+Bild Sport,https://stream.sport-bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/sport-bild-prod/77c261b7-66cf-4c8b-9403-7e0a022ceb65/0.m3u8
 DerAktionaer.tv,https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
 meteonews.tv (Schweiz),https://streaming.meteonews.net/hls/stream.m3u8
 Bundestag Kanal 1,https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 Bundestag Kanal 2,https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 Bundestag Kanal 3,https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 Bundestag Kanal 4,https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-Europe by Satellite Kanal 1,https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
-Europe by Satellite+ Kanal 2,https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
+Bayrischer Landtag,https://cldf-wzw-live.r53.cdn.tv1.eu/5112ltby-plenar/_definst_/live/video/plenar_de.smil/chunklist_b5128000_DVR_slde.m3u8
+Thuerigen Landtag,https://thlt.akamaized.net/hls/live/2019783/lt01/master_720p.m3u8
+Hessischer Landtag,https://hrhzdevent.akamaized.net/hls/live/2026529/hzdevent1hls/master-720.m3u8
+Europe by Satellite Kanal 1,https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
+Europe by Satellite+ Kanal 2,https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8?filter=(systemBitrate%3C5000000%26%26type==%22video%22%7C%7CsystemLanguage==%22ger%22)
 a.tv (Augsburg),https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 ALEX Berlin,https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 allgäu.tv,https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
@@ -63,7 +68,7 @@ erzTV Erzgebirge,https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stre
 Filstalwelle (Göppingen),http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8
 Franken Fernsehen,https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
 Hannover 1,https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
-HauptstadtTV,https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+HauptstadtTV,https://stream04.welocal.stream/stream/fhd-hauptstadttv_107073/ngrp:stream_all/master.m3u8
 KabelJournal,https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 Kulturmd TV,https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:kulturmd_high/master.m3u8
 L-TV,https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
@@ -128,12 +133,12 @@ Tele Bärn,https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/171922
 Tele M1 HD,https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/aG1N1BfzMxQdZwBcLmPaLw/master.m3u8
 TeleBielingue,https://edge12.vedge.infomaniak.com/livecast/ik:telebielinguech/master.m3u8
 SDF (Suedtirol),https://live.ipstream.it/vb33/vb33.stream/master.m3u8
-Adria Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
-Zwei Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
-One Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-Folx Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-FolxSlo Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
-OneAdria Music Television,https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+Adria Music Television,https://folxplay-t.b-cdn.net/streams/ch-1/master.m3u8
+Zwei Music Television,https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
+One Music Television,https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
+Folx Music Television,https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
+FolxSlo Music Television,https://folxplay-t.b-cdn.net/streams/ch-5/master.m3u8
+OneAdria Music Television,https://folxplay-t.b-cdn.net/streams/ch-6/master.m3u8
 Antenne VORARLBERG,https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 DELUXE MUSIC,https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 DELUXE MUSIC ROCK,https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
